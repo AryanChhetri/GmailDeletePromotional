@@ -1,4 +1,4 @@
-package org.example;
+package org.GmailPromotionalDeleter;
 
 import jakarta.mail.*;
 import jakarta.mail.search.BodyTerm;
